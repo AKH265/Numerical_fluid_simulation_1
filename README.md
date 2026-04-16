@@ -90,4 +90,4 @@ git push -u origin main
 ## 👨‍🔬 Author
 
 Akhilesh Ray  
-Research Scholar (Astrophysical Fluid Dynamics)
+Research Scholar 
